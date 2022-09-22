@@ -1,0 +1,2 @@
+# ancleanpage
+clear echo
